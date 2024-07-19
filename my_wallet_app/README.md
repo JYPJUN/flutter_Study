@@ -35,8 +35,8 @@
   - CrossAxisAlignment : 반대 축(교차 축) 방향으로 자식 위젯을 정렬
   - MainAxisALignment : 주 축 방향으로 자식 위젯을 정렬
 
-![image](./img/img1.png)
-![image](./img/img2.png)
+    ![image](./img/img1.png)
+    ![image](./img/img2.png)
 
 ```Dart
   Row(
